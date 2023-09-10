@@ -1,0 +1,25 @@
+.navbar-contener{
+    height: 70px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 40px;
+    padding-top: 40px;
+    color: white;
+    /* border:none;
+    text-decoration: none ;
+     */
+}
+.content1{
+    border:none;
+    color: white;
+    text-decoration: none;
+}
+
+.active{
+    border:none;
+    text-decoration: none ;
+    color: gold !important;
+}

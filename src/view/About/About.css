@@ -1,0 +1,26 @@
+.card-contener{
+    display: flex;
+    justify-content: space-around;
+}
+.card{
+    height: 430px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 20px;
+    box-shadow: 0px 0px 10px 0.5px;
+    padding: 10px;
+    
+}
+.img2{
+    height: 140px;
+    width: 140px;
+    border: 1px solid black;
+    border-radius: 50%;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.paragraph{
+    font-size: 17px;
+}

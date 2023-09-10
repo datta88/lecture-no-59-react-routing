@@ -1,0 +1,17 @@
+.btn{
+    
+    border: 2px solid chartreuse;
+    /* background-color: white; */
+    color: #006600;
+    padding-right:20px;
+    padding-top: 5px;
+    padding-left: 20px;
+    padding-bottom: 5px;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.btn:hover{
+    background-color:#00b300;
+    color:#004d00 ;
+    cursor: pointer;
+}
